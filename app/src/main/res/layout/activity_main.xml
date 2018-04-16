@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background"
+    tools:context="com.example.android.tourguideapp.MainActivity">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_parks">
+        <TextView
+            android:id="@+id/parks"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textColor="@android:color/white"
+            android:text="@string/category_parks" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_restaurants">
+        <TextView
+            android:id="@+id/food"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textColor="@android:color/white"
+            android:text="@string/category_restaurants" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_shopping">
+        <TextView
+            android:id="@+id/shopping"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textColor="@android:color/white"
+            android:text="@string/category_shopping" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_hotels">
+        <TextView
+            android:id="@+id/hotels"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:textColor="@android:color/white"
+            android:text="@string/category_hotels" />
+    </FrameLayout>
+</LinearLayout>
+
