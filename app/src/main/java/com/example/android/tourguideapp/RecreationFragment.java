@@ -11,10 +11,10 @@ public class RecreationFragment extends Fragment {
     public RecreationFragment() {
         }
         @Override
-    public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         ArrayList<TourGuide> tourGuides = new ArrayList<>();
         Recreation.initRecreationList(tourGuides, getContext());
-        TourGuideAdapter adapter = new TourGuideAdapter(getActivity(), tourGuides);
+        TourGuideAdapter adapter = new TourGuideAdapter(getActivity(),  tourGuides);
         View view = inflater.inflate(R.layout.word_list, container, false);
         ListView recreationListView =  view.findViewById(R.id.list);
         recreationListView .setAdapter(adapter);

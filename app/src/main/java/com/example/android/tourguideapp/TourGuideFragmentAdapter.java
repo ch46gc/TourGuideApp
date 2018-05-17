@@ -12,13 +12,13 @@ public class TourGuideFragmentAdapter extends FragmentPagerAdapter {
     @Override
     public Fragment getItem(int position) {
         if (position == 0) {
-            return new HotelsFragment();
-        } else if (position == 1) {
             return new RecreationFragment();
-        } else if (position == 2){
+        } else if (position == 1) {
             return new RestaurantFragment();
-        } else {
+        } else if (position == 2){
             return new ShoppingFragment();
+        } else {
+            return new HotelsFragment();
         }
     }
     @Override
@@ -28,13 +28,13 @@ public class TourGuideFragmentAdapter extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
-            return context.getString(R.string.category_hotels);
-        } else if (position == 1) {
             return context.getString(R.string.category_recreation);
-        } else if (position == 2) {
+        } else if (position == 1) {
             return context.getString(R.string.category_restaurants);
-        } else {
+        } else if (position == 2) {
             return context.getString(R.string.category_shopping);
+        } else {
+            return context.getString(R.string.category_hotels);
         }
     }
 }

@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">TourGuideApp</string>
-    <string name="category_hotels">Hotels</string>
-    <string name="category_shopping">Shopping</string>
-    <string name="category_recreation">Attractions</string>
-    <string name="category_restaurants">Restaurants</string>
+    <string name="category_hotels">SLEEP</string>
+    <string name="category_shopping">SHOP</string>
+    <string name="category_recreation">PLAY</string>
+    <string name="category_restaurants">EAT</string>
     <string name="image">Image</string>
     <string name="hotel_comfort_suites_name">Comfort Suites Cincinnati Airport</string>
     <string name="hotel_comfort_suites_location">775 Petersburg Road, I-275 Exit 4 A, Hebron, KY 41048</string>
@@ -15,7 +15,7 @@
     <string name="hotel_hampton_inn_location">755 Petersburg Rd, Hebron, KY 41048</string>
     <string name="hotel_hampton_inn_phone">(859) 689\-1960</string>
     <string name="hotel_marriot_name">Cincinnati Airport Marriott</string>
-    <string name="hotel_marriot_location">2395 Progress Dr, Hebron, KY 41048</string>
+    <string name="hotel_marriot_location">2395 Progress Drive, Hebron, KY 41048</string>
     <string name="hotel_marriot_phone">(859) 586\-0166</string>
     <string name="mcphee_name">McPhee\'s Art &amp; Gift Shop</string>
     <string name="mcphee_location">2997 N Bend Rd, Hebron, KY 41048</string>
@@ -24,7 +24,7 @@
     <string name="gap_location">2050 Global Way, Hebron, KY 41048</string>
     <string name="gap_phone">(859) 586\-3320</string>
     <string name="galeria_name">Galerie Clearance Center</string>
-    <string name="galeria_location">3380 Langley Dr, Hebron, KY 41048</string>
+    <string name="galeria_location">3380 Langley Drive, Hebron, KY 41048</string>
     <string name="galeria_phone">(859) 538\-8000</string>
     <string name="toa_name">Touch of Amish</string>
     <string name="toa_location">1853 Petersburg Rd A, Hebron, KY 41048</string>
@@ -57,7 +57,7 @@
     <string name="paradise_location">2091 N Bend Rd, Hebron, KY 41048</string>
     <string name="paradise_phone"> (859) 817\-9348</string>
     <string name="dq_name">Dairy Queen</string>
-    <string name="dq_location">2144 Kilgore Pl, Hebron, KY 41048</string>
+    <string name="dq_location">2144 Kilgore Place, Hebron, KY 41048</string>
     <string name="dq_phone"> (859) 689\-2253</string>
     <string name="pizza_hut_name">Pizza Hut</string>
     <string name="pizza_hut_location">1960 N Bend Rd Suite J, Hebron, KY 41048</string>
@@ -71,9 +71,8 @@
     <string name="gramm_pizza_name">Grammas Pizza</string>
     <string name="gramm_pizza_location">2983 N Bend Rd, Hebron, KY 41048</string>
     <string name="gramm_pizza_phone">(859) 586\-4000</string>
-
     <string name="bengals_stadium_name">Paul Brown Stadium</string>
-    <string name="bengals_stadium_location">One Paul Brown Stadium Cincinnati, OH 45202</string>
+    <string name="bengals_stadium_location">1 Paul Brown Stadium, Cincinnati, OH 45202</string>
     <string name="bengals_stadium_phone">(513) 455\-4800</string>
     <string name="reds_stadium_name">Great American Ball Park</string>
     <string name="reds_stadium_location">100 Joe Nuxhall Way, Cincinnati, OH 45202</string>
@@ -97,13 +96,13 @@
     <string name="big_bone_park_location">3380 Beaver Rd, Union, KY 41091</string>
     <string name="big_bone_park_phone">(812) 537\-3754</string>
     <string name="uk_stadium_name">Kroger Field</string>
-    <string name="uk_stadium_location">1540 University Dr, Lexington, KY 40506</string>
+    <string name="uk_stadium_location">1540 University Drive, Lexington, KY 40506</string>
     <string name="uk_stadium_phone">(859) 257\-1818</string>
     <string name="smale_park_name">Smale Riverfront Park</string>
     <string name="smale_park_location">100 Ted Berry Way, Cincinnati, OH 45202</string>
     <string name="smale_park_phone">(513) 352\-6180</string>
     <string name="newport_aquarium_name">Newport Aquarium</string>
-    <string name="newport_aquarium_location">1 Dave Cowens Dr, Newport, KY 41071</string>
+    <string name="newport_aquarium_location">1 Dave Cowens Drive, Newport, KY 41071</string>
     <string name="newport_aquarium_phone">(859) 261\-7444</string>
 </resources>
 
