@@ -18,11 +18,6 @@ public class Shopping {
                 context.getString(R.string.toa_phone),
                 R.drawable.touch_of_amish
         ));
-        tourGuides.add(new TourGuide(context.getString(R.string.huff_floor_name),
-                context.getString(R.string.huff_floor_location),
-                context.getString(R.string.huff_floor_phone),
-                R.drawable.huff_flooring
-        ));
         tourGuides.add(new TourGuide(context.getString(R.string.mcphee_name),
                 context.getString(R.string.mcphee_location),
                 context.getString(R.string.mcphee_phone),
