@@ -1,15 +1,15 @@
 # Tour Guide App
 - Project Tour Guide from Android Basics Nanodegree 
-- https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+-  https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 
 ## Build contains
--Fragments
--ViewPager
--TabLayout
--ArrayAdapter
--FragmentPageAdapter
--ConstraintLayout
--ListView
+- Fragments
+- ViewPager
+- TabLayout
+- ArrayAdapter
+- FragmentPageAdapter
+- ConstraintLayout
+- ListView
 
 # Description
  - Tour Guide App of Hebron, Kentucky
