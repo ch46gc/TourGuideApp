@@ -1,8 +1,8 @@
-## Tour Guide App
+# Tour Guide App
 - Project Tour Guide from Android Basics Nanodegree 
 - [Android Basics Nanodegree] at (https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
-# Build contains
+## Build contains
 -Fragments
 -ViewPager
 -TabLayout
@@ -11,6 +11,6 @@
 -ConstraintLayout
 -ListView
 
-## Description
+# Description
  - Tour Guide App of Hebron, Kentucky
  - It contains a list of places to Eat, Shop, Sleep and Play.
