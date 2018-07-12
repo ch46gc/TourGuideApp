@@ -1,5 +1,5 @@
 # Tour Guide App
-- Project Tour Guide from Android Basics Nanodegree by Google
+- Project Tour Guide from Udacity's Android Basics Nanodegree by Google.
 - [Android Basics by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 ## Build contains
